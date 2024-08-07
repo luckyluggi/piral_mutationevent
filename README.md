@@ -4,6 +4,6 @@
 - `cd ../piral~/BlazorPilet` and run `pilet debug`
 
 #  Problem
-Open `http://localhost:1234/counter`.
+Open `http://localhost:1234/counter` in the latest Version of Google Chrome.
 the Browsers console shows the following errors:
 ![alt text](image.png)
