@@ -5,5 +5,7 @@
 
 #  Problem
 Open `http://localhost:1234/counter` in the latest Version of Google Chrome.
-the Browsers console shows the following errors:
+
+The Browsers console shows the following errors:
+
 ![alt text](image.png)
