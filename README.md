@@ -4,7 +4,7 @@
 - `cd ../piral~/BlazorPilet` and run `pilet debug`
 
 #  Problem
-Open `http://localhost:1234/counter` in the latest Version of Google Chrome.
+Open `http://localhost:1234/counter` in the latest Version of Google Chrome (`127.0.6533.100`).
 
 The Browsers console shows the following errors:
 
